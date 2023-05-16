@@ -1,0 +1,33 @@
+/* cards Element */
+#card  {
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+h6{
+    color: brown !important;
+}
+
+/* Upper text */
+.llg ul{
+   
+    background-color: rgba(0, 0, 0, 0.103);
+    display:inline-flex;
+    width: 100%;
+    
+}
+h1{
+    margin-left: 300px;
+}
+h4 button{
+    margin-left: 200px;
+    border-radius:75px ;
+}
+
+h2{
+    color: rgba(0, 128, 0, 0.548);
+}

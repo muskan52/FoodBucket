@@ -1,0 +1,15 @@
+/* navigation bar */
+#nav1 {
+ color:aliceblue !important;
+    font-size: medium;
+}
+/* for search */
+#find{
+    margin-right: 30px;
+    
+    
+}
+/* logo border radius */
+#ll{
+    border-radius: 75%;
+}

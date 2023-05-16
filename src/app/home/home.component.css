@@ -1,0 +1,45 @@
+
+/* another div */
+.second-div{
+    
+    background-color: rgba(0, 0, 0, 0.87);
+    
+}
+/* images of main container */
+.aa img{
+    margin-left: 150px;
+    margin-top:40px ;
+    margin-bottom:40px ;
+    border-radius: 2px;
+    transition: 0.5s all;
+}
+.align{
+   margin: 0px;
+   height:50px;
+}
+
+/* transform image */
+#zz:hover{
+    transform: scale(1.4);
+}
+/* cards  */
+#card  {
+    display: flex;
+   justify-content: center;
+}
+
+.card{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+h6{
+    color: brown !important;
+}
+/* 2nd div card */
+#div1{
+    display:flex;
+}
+
+#carouselExampleAutoplaying >  .carousel-inner >  .carousel-item > img  {
+   height: 97vh;
+} 
